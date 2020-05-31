@@ -4,8 +4,8 @@ import { Feather } from '@expo/vector-icons';
 import { useNavigation } from '../Duda/node_modules/@react-navigation/native'
 
 import styles from './style';
-import logoImg from '../../assets/logo.png';
-import api from '../../services/api';
+import logoImg from '../assets/logo.png';
+import api from '../services/api';
 
 export default function Home() {
     const navigation = useNavigation();

@@ -5,7 +5,7 @@ import { useNavigation, useRoute } from '../Home/node_modules/@react-navigation/
 import * as MailComposer from 'expo-mail-composer';
 import styles from './style';
 
-import logoImg from '../../assets/logo.png';
+import logoImg from '../assets/logo.png';
 
 export default function Duda() {
     const route = useRoute();
