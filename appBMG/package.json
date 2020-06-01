@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "appBMG",
+=======
+  "name": "Pati",
+>>>>>>> da1eff30fe2c947549e9c4a63ada635d67d34f61
   "version": "0.0.1",
   "private": true,
   "scripts": {
