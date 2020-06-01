@@ -9,7 +9,7 @@ export default function Home() {
   return (
 	<View style={{flex:1,alignItems:'center',justifyContent:'center'}}>
 		 <Image
-                    source={require('../../assets/home.jpeg')}
+                    source={require('../../assets/home.png')}
                     style={styles.imagem}
                 />
 	</View>
